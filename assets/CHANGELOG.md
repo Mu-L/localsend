@@ -1,4 +1,4 @@
-## 1.8.0 (2023-)
+## 1.8.0 (2023-03-05)
 
 - feat: add send modes (single recipient, multiple recipients)
 - feat: selection gets cleared after finish by default (part of send modes feature)
@@ -11,6 +11,7 @@
 - feat(ex. iOS): pressing destination directory in progress page will open the directory
 - feat(android): share apk and install apk
 - feat(android): Android TV support
+- feat(android): show loading indicator when picking (large) files
 - feat(windows): left click on tray icon opens app
 - feat(linux): add Control+Q shortcut to exit app
 - fix: handshake error in unencrypted mode
